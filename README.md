@@ -6,9 +6,11 @@ $ sudo apt install libsdl2-dev
 $ sudo apt install libsdl2-ttf-dev
 $ gcc pong.c `sdl2-config --cflags --libs` -lSDL2_ttf -o pong
 $ ./pong
-use w/s to control paddle .
+ use w/s to control paddle .
+ w -> move up 
+ s -> move down
 ```
-# Screnshoot
+# Screenshot
  ![start](https://github.com/yusuf0x/Pong_Game/blob/main/img/start.png)
  ![play](https://github.com/yusuf0x/Pong_Game/blob/main/img/pong_game.png)
   ![pause](https://github.com/yusuf0x/Pong_Game/blob/main/img/pause.png)
