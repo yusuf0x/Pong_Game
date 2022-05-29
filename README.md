@@ -9,11 +9,8 @@ $ ./pong
 use w/s to control paddle .
 ```
 # Screnshoot
-  ## start
     ![start](https://github.com/yusuf0x/Pong_Game/blob/main/img/start.png)
-  ## play
     ![play](https://github.com/yusuf0x/Pong_Game/blob/main/img/pong_game.png)
-  ## pause
     ![pause](https://github.com/yusuf0x/Pong_Game/blob/main/img/pause.png)
 # References
   1. https://lazyfoo.net/tutorials/SDL/index.php
